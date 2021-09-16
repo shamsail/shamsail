@@ -7,7 +7,7 @@ I'm Shamsail Ramzan a Full Stack Web Developer and Tech Nerd who spends most of 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @weltfern
+- 🔭 I’m currently working on new generation web portals.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Tech Project ideas.
 - 📫 How to reach me: shamsail.srj@gmail.com.
