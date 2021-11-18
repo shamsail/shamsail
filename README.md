@@ -25,7 +25,7 @@ I'm Shamsail Ramzan a Full Stack Web Developer and Tech Nerd who spends most of 
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/shamsail/shamsail/blob/master/resumes/Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/shamsail/shamsail/blob/master/Resume.pdf)
 - :email: shamsail.srj@gmail.com
 
 
